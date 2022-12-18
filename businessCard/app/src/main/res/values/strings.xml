@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">businessCard</string>
+    <string name="number_phone">+55 119999-9999</string>
+    <string name="email_user">user@gmail.com</string>
+    <string name="subtitle_text">You\'re invited to my party</string>
+    <string name="instragram_user">\@party</string>
+    <string name="title_text">Nathan Rodrigo</string>
+</resources>
